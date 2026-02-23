@@ -37,5 +37,3 @@ We'll be using
     - Load tables into Postgres
 - Run post-data migration checks 
 - Generate validation report
-- xxx
--jav
